@@ -27,16 +27,8 @@
         <artifactId>jsoup</artifactId>
         <version>1.13.1</version>
     </dependency>
-    <dependency>
-        <groupId>com.gaodun.storm</groupId>
-        <artifactId>crm-retry-spring-boot-starter</artifactId>
-        <version>1.0.2.RELEASE</version>
-    </dependency>
-    <dependency>
-        <groupId>com.alibaba</groupId>
-        <artifactId>fastjson</artifactId>
-        <version>1.2.7</version>
-    </dependency>
+
+
 </dependencies>
     <repositories>
         <repository>
