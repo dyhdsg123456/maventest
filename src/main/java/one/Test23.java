@@ -1,7 +1,5 @@
 package one;
 
-import org.springframework.util.CollectionUtils;
-
 import java.util.Arrays;
 import java.util.Collections;
 import java.util.List;
