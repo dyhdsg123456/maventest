@@ -8,13 +8,7 @@ import java.util.List;
  */
 public class TestReomve {
     public static void main(String[] args) {
-
-        ArrayList<String> integers = new ArrayList<>(Arrays.asList("1", "2", "3"));
-        ArrayList<String> integers1 = new ArrayList<>(Arrays.asList("3", "45", "2", "32", "41"));
-
-        integers.removeAll(integers1);
-        for (String integer : integers) {
-            System.out.println(integer);
-        }
+        System.out.println(12%2);
+        System.out.println(12/2);
     }
 }

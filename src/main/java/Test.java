@@ -30,5 +30,7 @@ public class Test {
 //        }
 String s="{\"code\":\""+(int) ((Math.random() * 9 + 1) * 1000)+"\"}";
         System.out.println(s);
+        String format = String.format("'%s%%'", "123");
+        System.out.println(format);
     }
 }

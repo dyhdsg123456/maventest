@@ -13,6 +13,7 @@ public class testTime {
         LocalDate parse = LocalDate.parse("2017-09-03");
         System.out.println(parse);
         System.out.println( UUID.randomUUID());
+        String s="123";
 
     }
 

@@ -13,7 +13,7 @@ public class TestPassword {
     public static void main(String[] args) {
         String s = SecureUtil.md5("1qaz@#$%^&*()-");
 
-        String s2 = SecureUtil.md5("654321");
+        String s2 = SecureUtil.md5("123456");
         s = s.substring(0, 20);
         System.out.println(s);
         System.out.println(s2.substring(0, 20));
